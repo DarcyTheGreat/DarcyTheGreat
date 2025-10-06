@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarcyTheGreat
 - 👀 I’m interested in ...health informatics
-- 🌱 I’m currently learning ...advanced web aplications
+- 🌱 I’m currently learning ...advanced web applications
 - 💞️ I’m looking to collaborate on ...everything!
 - 📫 How to reach me ...itsdarcynelson@gmail.com
 - 😄 Pronouns: ...she/her
